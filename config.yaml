@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    nish:
+      email: 2nishantthakurh@gmail.com
+      name: Nishant thakur
+      password: abc # To be replaced with hashed password
+    test:
+      email: test@gmail.com
+      name: test user
+      password: abc # To be replaced with hashed password
+cookie:
+  expiry_days: 30
+  key: random_signature_key # Must be string
+  name: random_cookie_name
+preauthorized:
+  emails:
+  - melsby@gmail.com
